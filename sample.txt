@@ -1,5 +1,4 @@
-asdfasdf
-<<<<<<< HEAD
+
 
 'Cris
 =======
