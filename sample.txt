@@ -1,3 +1,7 @@
 asdfasdf
+<<<<<<< HEAD
 
 'Cris
+=======
+Kazer
+>>>>>>> 7179207b2d121051796380a7a7df30b20b725ef6
