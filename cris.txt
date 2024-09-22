@@ -1,3 +1,0 @@
-another one
-another two
-sample using termux
